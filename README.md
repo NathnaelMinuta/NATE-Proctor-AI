@@ -8,3 +8,4 @@ The integration of the Gemini API ensures accurate and relevant information, enh
 This application also includes features such as multiple chat profiles based on user roles and a password authentication system to ensure secure access. When a user initiates a chat, the app confirms the user's identity and profile before assisting them. The backend uses the Google Bard API to generate content and respond to user queries dynamically.
 
 Currently in beta testing, NateAI aims to cater to busy professionals, students, and anyone looking to improve their time management. The core features are implemented, and the app is being fine-tuned for a smooth user experience.
+https://www.loom.com/share/cddc925b4cfd4fb8888f2bfc1735d833?sid=8c19bff1-e132-44fa-8f36-a1b42ee548de
