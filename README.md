@@ -1,4 +1,4 @@
-# NATEAI
+# NATE Proctor AI
 NateAI is an AI-driven app designed to streamline daily tasks and boost productivity. The app leverages the Gemini API to provide a seamless and intuitive user experience by utilizing advanced natural language processing and machine learning algorithms.
 
 The app features personalized scheduling, real-time reminders, intelligent task prioritization, and contextual information retrieval, all tailored to individual user preferences. Users can interact with the assistant through voice and text commands for efficient task management.
