@@ -3,7 +3,7 @@ import chainlit as cl
 from typing import Optional
 
 # Set up the Google Bard API
-genai.configure(api_key='AIzaSyBzegTPc4jhh7lbNVhlI-AXBplVT7huA0o')
+genai.configure(api_key='')
 model = genai.GenerativeModel('gemini-pro')
 
 @cl.set_chat_profiles
